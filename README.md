@@ -24,7 +24,7 @@ An index to my codebase. Some Repos are listed twice for completeness
 * **P** **A** - [Treps](https://github.com/jessemonroy650/Treps)
 * **N** **A** - [Simple-Calculator](https://github.com/jessemonroy650/Simple-Calculator)
 * **N** **A** - [map_examples](https://github.com/jessemonroy650/map_examples) ARCGIS
-* **P** **A** - [map-examples](https://github.com/jessemonroy650/map-examples)
+* **P** **A** - [map-examples](https://github.com/jessemonroy650/map-examples) Google, OpenStreet Maps, ARCGIS
 
 ### Phonegap Core ###
 * **W** **A** - [Phonegap-Battery-Test](https://github.com/jessemonroy650/Phonegap-Battery-Test)
