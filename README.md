@@ -13,18 +13,12 @@ An index to my codebase. Some Repos are listed twice for completeness
 * *O* - Other (Arduino,Linux,*BSD, as listed)
 
 ### Phonegap Inprogress ###
-* **P** **A** - [firebase-botdrivesim](https://github.com/jessemonroy650/firebase-botdrivesim)
 * **P** **A** - [GPS-Notepad](https://github.com/jessemonroy650/GPS-Notepad)
-* **P** **A** - [pflogin](https://github.com/jessemonroy650/pflogin)
-* **P** **A** - [PG-BotDrive](https://github.com/jessemonroy650/PG-BotDrive)
 * **P** **A** - [PGPlugin-BLE](https://github.com/jessemonroy650/PGPlugin-BLE)
 * **P** **A** - [Phonegap-MediaQuery-Test](https://github.com/jessemonroy650/Phonegap-MediaQuery-Test)
 * **P** **A** - [Phonegap-MediaQuery-Test2](https://github.com/jessemonroy650/Phonegap-MediaQuery-Test2) uses crosswalk
 * **P** **A** - [phonegap-webrtc](https://github.com/jessemonroy650/phonegap-webrtc)
-* **P** **A** - [Treps](https://github.com/jessemonroy650/Treps)
 * **N** **A** - [Simple-Calculator](https://github.com/jessemonroy650/Simple-Calculator)
-* **N** **A** - [map_examples](https://github.com/jessemonroy650/map_examples) ARCGIS
-* **P** **A** - [map-examples](https://github.com/jessemonroy650/map-examples) Google, OpenStreet Maps, ARCGIS
 
 ### Phonegap Core ###
 * **W** **A** - [Phonegap-Battery-Test](https://github.com/jessemonroy650/Phonegap-Battery-Test)
@@ -68,17 +62,26 @@ An index to my codebase. Some Repos are listed twice for completeness
 * **W** *AO* - [phonegap-arduino-toggle13](https://github.com/jessemonroy650/phonegap-arduino-toggle13)
 * **N** *AO* - [panapix](https://github.com/jessemonroy650/panapix)
 
-### Phonegap Utility Apps ##
+### Phonegap Utility Apps ###
 * **W** *A* - [ScreenSize](https://github.com/jessemonroy650/ScreenSize)
+
+### Phonegap SaaS and MBaaS ###
+* **P** **A** - [firebase-botdrivesim](https://github.com/jessemonroy650/firebase-botdrivesim)
+* **N** **A** - [map_examples](https://github.com/jessemonroy650/map_examples) ARCGIS
+* **P** **A** - [map-examples](https://github.com/jessemonroy650/map-examples) Google, OpenStreet Maps, ARCGIS
+* **P** **A** - [pflogin](https://github.com/jessemonroy650/pflogin)
+* **P** **A** - [Treps](https://github.com/jessemonroy650/Treps)
 
 ### UI Components and Plugins ###
 * **P** **A** - [activeQueue](https://github.com/jessemonroy650/activeQueue)
 * **P** **A** - [div-table](https://github.com/jessemonroy650/div-table)
 * **P** **A** - [DrivePad-Plugin-UI](https://github.com/jessemonroy650/DrivePad-Plugin-UI)
 * **P** **A** - [Faux-UI](https://github.com/jessemonroy650/Faux-UI)
+* **P** **A** - [mobileui-confetti](https://github.com/jessemonroy650/mobileui-confetti)
 * **P** **A** - [mobileui-popup](https://github.com/jessemonroy650/mobileui-popup)
-* **P** **A** - [UI-SliderButtons](https://github.com/jessemonroy650/UI-SliderButtons)
+* **P** **A** - [PG-BotDrive](https://github.com/jessemonroy650/PG-BotDrive)
 * **P** **A** - [ScreenLayout](https://github.com/jessemonroy650/ScreenLayout)
+* **P** **A** - [UI-SliderButtons](https://github.com/jessemonroy650/UI-SliderButtons)
 
 ### Javascript Library ###
 * **P** *O* - [AjaxLite](https://github.com/jessemonroy650/AjaxLite)
